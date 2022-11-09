@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.759" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-11-09T13:16:44" tests="0" file="cypress\e2e\googlesearch.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Google search" timestamp="2022-11-09T13:16:44" tests="1" time="6.741" failures="0">
+    <testcase name="Google search Open a google search" time="4.914" classname="Open a google search">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,16 @@
+{
+  "name": "cypressado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --spec 'cypress\\e2e\\googlesearch.cy.js' --headed --browser chrome",
+    "record":"cypress run --spec 'cypress\\e2e\\googlesearch.cy.js' --record"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  }
+}
